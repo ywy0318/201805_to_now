@@ -1,0 +1,333 @@
+by_for_send[4]=(byte) ((
+				(get_SelectedItem(ComboBox_for_map[0],str31)*128)
+				+(get_SelectedItem(ComboBox_for_map[1],str31)*64)
+				+(get_SelectedItem(ComboBox_for_map[2],str31)*32)
+				+(get_SelectedItem(ComboBox_for_map[3],str31)*16)
+				+(get_SelectedItem(ComboBox_for_map[4],str31)*8)
+				+(get_SelectedItem(ComboBox_for_map[5],str31)*4)
+				+(get_SelectedItem(ComboBox_for_map[6],str31)*2)
+				+(get_SelectedItem(ComboBox_for_map[7],str31)*1)
+						)&0xff);
+		by_for_send[5]=(byte) ((
+				(get_SelectedItem(ComboBox_for_map[8],str31)*128)
+				+(get_SelectedItem(ComboBox_for_map[9],str31)*64)
+						)&0xff);
+		by_for_send[6]=(byte) ((
+				(get_SelectedItem(ComboBox_for_map[10],str31)*128)
+				+(get_SelectedItem(ComboBox_for_map[11],str31)*64)
+				+(get_SelectedItem(ComboBox_for_map[12],str31)*32)
+				+(get_SelectedItem(ComboBox_for_map[13],str31)*16)
+				+(get_SelectedItem(ComboBox_for_map[14],str31)*8)
+				+(get_SelectedItem(ComboBox_for_map[15],str31)*4)
+				+(get_SelectedItem(ComboBox_for_map[16],str31)*2)
+				+(get_SelectedItem(ComboBox_for_map[17],str31)*1)
+						)&0xff);
+		
+		by_for_send[7]=(byte) ((
+				(get_SelectedItem(ComboBox_for_map[18],str31)*128)
+				+(get_SelectedItem(ComboBox_for_map[19],str31)*64)
+						)&0xff);
+		
+		by_for_send[8]=(byte) ((
+				(get_SelectedItem(ComboBox_for_map[20],str31)*128)
+				+(get_SelectedItem(ComboBox_for_map[21],str31)*64)
+				+(get_SelectedItem(ComboBox_for_map[22],str31)*32)
+				+(get_SelectedItem(ComboBox_for_map[23],str31)*16)
+				+(get_SelectedItem(ComboBox_for_map[24],str31)*8)
+				+(get_SelectedItem(ComboBox_for_map[25],str31)*4)
+				+(get_SelectedItem(ComboBox_for_map[26],str31)*2)
+				+(get_SelectedItem(ComboBox_for_map[27],str31)*1)
+						)&0xff);
+		
+		by_for_send[9]=(byte) ((
+				(get_SelectedItem(ComboBox_for_map[28],str31)*128)
+				+(get_SelectedItem(ComboBox_for_map[29],str31)*64)
+						)&0xff);
+		by_for_send[10]=(byte) ((
+				(get_SelectedItem(ComboBox_for_map[30],str31)*128)
+				+(get_SelectedItem(ComboBox_for_map[31],str31)*64)
+				+(get_SelectedItem(ComboBox_for_map[32],str31)*32)
+				+(get_SelectedItem(ComboBox_for_map[33],str31)*16)
+				+(get_SelectedItem(ComboBox_for_map[34],str31)*8)
+				+(get_SelectedItem(ComboBox_for_map[35],str31)*4)
+				+(get_SelectedItem(ComboBox_for_map[36],str31)*2)
+				+(get_SelectedItem(ComboBox_for_map[37],str31)*1)
+						)&0xff);
+		
+		by_for_send[11]=(byte) ((
+				(get_SelectedItem(ComboBox_for_map[38],str31)*128)
+				+(get_SelectedItem(ComboBox_for_map[39],str31)*64)
+						)&0xff);
+		by_for_send[12]=(byte) ((
+				(get_SelectedItem(ComboBox_for_map[40],str31)*128)
+				+(get_SelectedItem(ComboBox_for_map[41],str31)*64)
+				+(get_SelectedItem(ComboBox_for_map[42],str31)*32)
+				+(get_SelectedItem(ComboBox_for_map[43],str31)*16)
+				+(get_SelectedItem(ComboBox_for_map[44],str31)*8)
+				+(get_SelectedItem(ComboBox_for_map[45],str31)*4)
+				+(get_SelectedItem(ComboBox_for_map[46],str31)*2)
+				+(get_SelectedItem(ComboBox_for_map[47],str31)*1)
+						)&0xff);
+		
+		by_for_send[13]=(byte) ((
+				(get_SelectedItem(ComboBox_for_map[48],str31)*128)
+				+(get_SelectedItem(ComboBox_for_map[49],str31)*64)
+						)&0xff);
+		
+		by_for_send[14]=(byte) ((
+				(get_SelectedItem(ComboBox_for_map[50],str31)*128)
+				+(get_SelectedItem(ComboBox_for_map[51],str31)*64)
+				+(get_SelectedItem(ComboBox_for_map[52],str31)*32)
+				+(get_SelectedItem(ComboBox_for_map[53],str31)*16)
+				+(get_SelectedItem(ComboBox_for_map[54],str31)*8)
+				+(get_SelectedItem(ComboBox_for_map[55],str31)*4)
+				+(get_SelectedItem(ComboBox_for_map[56],str31)*2)
+				+(get_SelectedItem(ComboBox_for_map[57],str31)*1)
+						)&0xff);
+		
+		by_for_send[15]=(byte) ((
+				(get_SelectedItem(ComboBox_for_map[58],str31)*128)
+				+(get_SelectedItem(ComboBox_for_map[59],str31)*64)
+				
+				+(get_SelectedItem(ComboBox_for_map[68],str31)*32)
+				+(get_SelectedItem(ComboBox_for_map[69],str31)*16)
+				+(get_SelectedItem(ComboBox_for_map[78],str31)*8)
+				+(get_SelectedItem(ComboBox_for_map[79],str31)*4)
+						)&0xff);
+		
+		by_for_send[16]=(byte) ((
+				(get_SelectedItem(ComboBox_for_wireless_fault[0],str31)*128)
+				+(get_SelectedItem(ComboBox_for_wireless_fault[1],str31)*64)
+				+(get_SelectedItem(ComboBox_for_wireless_fault[2],str31)*32)
+				+(get_SelectedItem(ComboBox_for_wireless_fault[3],str31)*16)
+				+(get_SelectedItem(ComboBox_for_wireless_fault[4],str31)*8)
+				+(get_SelectedItem(ComboBox_for_wireless_fault[5],str31)*4)
+				+(get_SelectedItem(ComboBox_for_wireless_fault[6],str31)*2)
+				+(get_SelectedItem(ComboBox_for_wireless_fault[7],str31)*1)
+						)&0xff);
+		
+		by_for_send[17]=(byte) ((
+				(get_SelectedItem(ComboBox_for_wireless_fault[8],str31)*128)
+				+(get_SelectedItem(ComboBox_for_wireless_fault[9],str31)*64)
+				+(get_SelectedItem(ComboBox_for_wireless_fault[10],str31)*32)
+				+(get_SelectedItem(ComboBox_for_wireless_fault[11],str31)*16)
+				+(get_SelectedItem(ComboBox_for_wireless_fault[12],str31)*8)
+				+(get_SelectedItem(ComboBox_for_wireless_fault[13],str31)*4)
+				+(get_SelectedItem(ComboBox_for_wireless_fault[14],str31)*2)
+				+(get_SelectedItem(ComboBox_for_wireless_fault[15],str31)*1)
+						)&0xff);
+		
+		by_for_send[18]=(byte) ((
+				(get_SelectedItem(ComboBox_for_map[60],str31)*128)
+				+(get_SelectedItem(ComboBox_for_map[61],str31)*64)
+				+(get_SelectedItem(ComboBox_for_map[62],str31)*32)
+				+(get_SelectedItem(ComboBox_for_map[63],str31)*16)
+				+(get_SelectedItem(ComboBox_for_map[64],str31)*8)
+				+(get_SelectedItem(ComboBox_for_map[65],str31)*4)
+				+(get_SelectedItem(ComboBox_for_map[66],str31)*2)
+				+(get_SelectedItem(ComboBox_for_map[67],str31)*1)
+						)&0xff);
+		
+		by_for_send[19]=(byte) ((
+				(get_SelectedItem(ComboBox_for_map[70],str31)*128)
+				+(get_SelectedItem(ComboBox_for_map[71],str31)*64)
+				+(get_SelectedItem(ComboBox_for_map[72],str31)*32)
+				+(get_SelectedItem(ComboBox_for_map[73],str31)*16)
+				+(get_SelectedItem(ComboBox_for_map[74],str31)*8)
+				+(get_SelectedItem(ComboBox_for_map[75],str31)*4)
+				+(get_SelectedItem(ComboBox_for_map[76],str31)*2)
+				+(get_SelectedItem(ComboBox_for_map[77],str31)*1)
+						)&0xff);
+		//TC1
+		//ComboBox_for_drv_fault String str32[] = {"广播控制盒", "中控","录音"};
+		by_for_send[20]=(byte) ((
+				(get_SelectedItem(ComboBox_for_drv_fault[0],str31)*128)
+				+(get_SelectedItem(ComboBox_for_drv_fault[3],str31)*64)
+				+(get_SelectedItem(ComboBox_for_drv_fault[1],str31)*32)
+				+(get_SelectedItem(ComboBox_for_drv_fault[2],str31)*16)
+				+(get_SelectedItem(ComboBox_for_drv_fault[4],str31)*8)
+				+(get_SelectedItem(ComboBox_for_drv_fault[5],str31)*4)				
+						)&0xff);
+		//ComboBox_for_gf_fault
+		by_for_send[21]=(byte) ((
+				(get_SelectedItem(ComboBox_for_gf_fault[0],str31)*128)
+				+(get_SelectedItem(ComboBox_for_gf_fault[1],str31)*64)
+				+(get_SelectedItem(ComboBox_for_gf_fault[2],str31)*32)
+				+(get_SelectedItem(ComboBox_for_gf_fault[3],str31)*16)
+				+(get_SelectedItem(ComboBox_for_gf_fault[4],str31)*8)
+				+(get_SelectedItem(ComboBox_for_gf_fault[5],str31)*4)
+				+(get_SelectedItem(ComboBox_for_gf_fault[12],str31)*2)
+				+(get_SelectedItem(ComboBox_for_gf_fault[13],str31)*1)
+						)&0xff);
+		
+		by_for_send[22]=(byte) ((
+				(get_SelectedItem(ComboBox_for_gf_fault[11],str31)*128)
+				+(get_SelectedItem(ComboBox_for_gf_fault[10],str31)*64)
+				+(get_SelectedItem(ComboBox_for_gf_fault[9],str31)*32)
+				+(get_SelectedItem(ComboBox_for_gf_fault[8],str31)*16)
+				+(get_SelectedItem(ComboBox_for_gf_fault[6],str31)*8)
+				+(get_SelectedItem(ComboBox_for_gf_fault[7],str31)*4)
+				+(get_SelectedItem(ComboBox_for_gf_fault[14],str31)*2)
+				+(get_SelectedItem(ComboBox_for_gf_fault[15],str31)*1)
+						)&0xff);
+		//ComboBox_for_bjq_fault
+		by_for_send[23]=(byte) ((
+				(get_SelectedItem(ComboBox_for_bjq_fault[0],str31)*128)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[1],str31)*64)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[2],str31)*32)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[3],str31)*16)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[4],str31)*8)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[5],str31)*4)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[6],str31)*2)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[7],str31)*1)
+						)&0xff);
+		
+		by_for_send[24]=(byte) ((
+				(get_SelectedItem(ComboBox_for_bjq_fault[8],str31)*128)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[9],str31)*64)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[10],str31)*32)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[11],str31)*16)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[12],str31)*8)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[13],str31)*4)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[14],str31)*2)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[15],str31)*1)
+						)&0xff);
+		
+		by_for_send[25]=(byte) ((
+				(get_SelectedItem(ComboBox_for_bjq_fault[16],str31)*128)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[17],str31)*64)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[18],str31)*32)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[19],str31)*16)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[20],str31)*8)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[21],str31)*4)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[22],str31)*2)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[23],str31)*1)
+						)&0xff);
+		
+		by_for_send[26]=(byte) ((
+				(get_SelectedItem(ComboBox_for_bjq_fault[24],str31)*128)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[25],str31)*64)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[26],str31)*32)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[27],str31)*16)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[28],str31)*8)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[29],str31)*4)				
+						)&0xff);
+				
+		by_for_send[27]=(byte) ((			
+				(get_SelectedItem(ComboBox_for_bjq_fault[30],str31)*16)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[31],str31)*8)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[32],str31)*4)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[33],str31)*2)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[34],str31)*1)
+						)&0xff);
+		//ComboBox_for_zhuji_guzhang
+		by_for_send[28]=(byte) ((
+				(get_SelectedItem(ComboBox_for_bjq_fault[35],str31)*128)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[36],str31)*64)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[37],str31)*32)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[38],str31)*16)
+				+(get_SelectedItem(ComboBox_for_bjq_fault[39],str31)*8)
+				+(get_SelectedItem(ComboBox_for_zhuji_guzhang[0],str31)*4)
+				+(get_SelectedItem(ComboBox_for_zhuji_guzhang[1],str31)*2)
+				+(get_SelectedItem(ComboBox_for_zhuji_guzhang[2],str31)*1)
+						)&0xff);
+		
+		by_for_send[29]=(byte) ((
+				(get_SelectedItem(ComboBox_for_zhuji_guzhang[3],str31)*128)
+				+(get_SelectedItem(ComboBox_for_zhuji_guzhang[4],str31)*64)
+				+(get_SelectedItem(ComboBox_for_zhuji_guzhang[5],str31)*32)
+				+(get_SelectedItem(ComboBox_for_zhuji_guzhang[6],str31)*16)
+				+(get_SelectedItem(ComboBox_for_zhuji_guzhang[7],str31)*8)
+				
+				+(get_SelectedItem(ComboBox_for_tc1_tc2_guzhang[0],str31)*2)
+				+(get_SelectedItem(ComboBox_for_tc1_tc2_guzhang[1],str31)*1)
+						)&0xff);
+						
+			//动态地图故障--客室-ComboBox_for_map = new JComboBox [80];	str31	
+			//报警器故障--客室-ComboBox_for_bjq_fault = new JComboBox [40];str31			
+			//功放故障--客室-ComboBox_for_gf_fault = new JComboBox [16];	str31		
+			//紧急报警器--ComboBox_for_bjq = new JComboBox [40];str1
+			
+			//司机室设备故障-ComboBox_for_drv_fault = new JComboBox [6];
+			//TC1车
+			//ComboBox_for_drv_fault-String str32[] = {"广播控制盒", "中控","录音"};str31	
+			
+			//无线pis故障--客室-ComboBox_for_wireless_fault = new JComboBox [16];str31
+			//连挂-解编String str30[] = {"组编无效","连挂有效"};//连挂标志
+	//String str29[] = {"解编模式","无效"};//解编标志
+	//ComboBox_for_liangua_jiebian = new JComboBox [2];
+	连挂标志-ComboBox_for_liangua_jiebian[0]str30
+	解编标志-ComboBox_for_liangua_jiebian[1]str29
+	
+	//下一站开门侧-ComboBox_for_open_door = new JComboBox [2];
+	String str_open_door_1="下一站开 A 侧门:";label_for_open_door[0]str33
+	String str_open_door_2="下一站开 B 侧门:";label_for_open_door[1]str33
+	
+	//站点-ComboBox_for_station = new JComboBox [3];
+	//label_for_station[0] = new JLabel("当前站:---");
+	label_for_station[1] = new JLabel("下一站:---");
+	label_for_station[2] = new JLabel("目的站:---");str41
+	
+	ComboBox_for_tc1_tc2_guzhang[0]TC1司机室主机故障str31
+	ComboBox_for_tc1_tc2_guzhang[1]TC2司机室主机故障
+	
+	//occ广播状态-ComboBox_for_occ = new JComboBox [1];ComboBox_for_occ[0];str37
+	//pis工作模式-ComboBox_for_pis_work = new JComboBox [1];str38
+	//与紧急报警器通话的序号-ComboBox_for_bjq_num = new JComboBox [1];str41
+	//当前广播状态-ComboBox_for_cur_state = new JComboBox [1];str39
+	
+	//司机间通话-司乘通话-ComboBox_for_commu = new JComboBox [2];
+	ComboBox_for_commu[0]司乘对讲-str40
+	ComboBox_for_commu[1]司机对讲-str40
+	
+	//1车PIS内部存在故障-ComboBox_for_guzhang = new JComboBox [8];
+	ComboBox_for_guzhang[i] = new JComboBox<String>(str35);
+	
+	//车内主机发生了故障-ComboBox_for_zhuji_guzhang = new JComboBox [8];
+	ComboBox_for_zhuji_guzhang[i] = new JComboBox<String>(str34);
+	
+	//tc1_tc2_guzhang发生了故障-ComboBox_for_tc1_tc2_guzhang = new JComboBox [2];
+	TC1司机室主机故障"
+	ComboBox_for_tc1_tc2_guzhang[0] = new JComboBox<String>(str31);
+	"TC2司机室主机故障"
+	ComboBox_for_tc1_tc2_guzhang[1] = new JComboBox<String>(str31);
+	
+	
+	ComboBox_for_fuwei[i] = new JComboBox<String>(str36);
+	
+	
+*******************************************************************
+	rdoManualMode---手动模式
+	
+	rdoAutoMode---自动行车模式
+	
+	rdoSemiAutoMode---半自动行车模式
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
