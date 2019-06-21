@@ -1,0 +1,16 @@
+
+'''
+!!!!!!!遗留的问题
+
+#rD:\Program Files\Python35\lib\site-packages\sklearn\linear_model\stochastic_gradient.py:166: FutureWarning: max_iter and tol parameters have been added in SGDRegr max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
+  FutureWarning)
+#rD:\Program Files\Python35\lib\site-packages\sklearn\utils\validation.py:761: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Plee using ravel().
+#  y = column_or_1d(y, warn=True)
+
+'''
+https://archive.ics.uci.edu/ml/machine-learning-databases/
+
+样本数据有A B C D E 五个特征 信息增益从大到小也是abcde
+决策树就按这个顺序来做分支节点？
+看你用什么算法  id3是 
+比能力重要1000倍的，是提升你的认知层次
