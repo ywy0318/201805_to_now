@@ -1,0 +1,22 @@
+import numpy as np 
+'''
+x,y=meshgrid(a,b)
+输入两个一维数组，输出两个二维数组x,y;其中矩阵x的行向量是向量a的简单复制，
+矩阵y的列向量是向量b的简单复制
+'''
+a=np.linspace(0,2,3)
+b=np.linspace(3,5,3)
+#a=np.meshgrid
+#根据a,b的一维数据打包为元祖的列表
+print(a)
+print(b)
+c=zip(a.ravel(),b.ravel())
+print(list(c))
+aa,bb=np.meshgrid(a,b)
+print(aa)
+print(bb)
+xv,yv=np.meshgrid(a,b,sparse=True)
+print(xv)
+print(yv)
+print(xv.shape)
+print(yv.shape)
