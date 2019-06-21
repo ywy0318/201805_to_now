@@ -1,0 +1,11 @@
+E:\Visual Studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+E:\Visual Studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+E:\Visual Studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+E:\Visual Studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+E:\Visual Studio 2010\Projects\C_sharp_no_windows\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+E:\Visual Studio 2010\Projects\C_sharp_no_windows\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+E:\Visual Studio 2010\Projects\C_sharp_no_windows\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+E:\Visual Studio 2010\Projects\C_sharp_no_windows\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+E:\Visual Studio 2010\Projects\C_sharp_no_windows\ConsoleApplication2\obj\x86\Debug\C_sharp_no_windows.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2010\Projects\C_sharp_no_windows\ConsoleApplication2\obj\x86\Debug\Interop.ADOX.dll
+E:\Visual Studio 2010\Projects\C_sharp_no_windows\ConsoleApplication2\obj\x86\Debug\C_sharp_no_windows.csproj.ResolveComReference.cache
